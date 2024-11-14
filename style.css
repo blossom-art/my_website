@@ -71,3 +71,10 @@ li:hover{
   text-decoration:underline ;
   font-size:25px ;
 }
+
+#about{
+
+  background:linear-gradient(#f7bec6,#f59494,#f75e5e,#ee2929,#c70505) ;
+  padding:50px ;
+}
+
